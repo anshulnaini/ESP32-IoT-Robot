@@ -11,11 +11,12 @@ Features
 Robot Control:
 Allows for user to type in angles to move each axis or "run demo" to showcase capabilities.
 
-### Video 1
-<iframe src="https://drive.google.com/file/d/1NQA49-m5MSbD3_2Lb8nT8vc4IEylA8it/preview" width="640" height="480" allow="autoplay"></iframe>
+### Demo
+[![Video 1](https://img.youtube.com/vi/pku3dEesLaU/0.jpg)](https://youtu.be/pku3dEesLaU)
 
-### Video 2
-<iframe src="https://drive.google.com/file/d/14kbuLB7u744Zfz5iZHSgPzFWcj_GSmDg/preview" width="640" height="480" allow="autoplay"></iframe>
+### User Coordinates
+[![Video 2](https://img.youtube.com/vi/FkN5HCVUtR8/0.jpg)](https://youtu.be/FkN5HCVUtR8)
+
 
 
 Precise Motor Control:
