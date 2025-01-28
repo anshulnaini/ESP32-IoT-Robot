@@ -3,6 +3,9 @@
 3-Axis Robot Arm with Wireless Control
 This project showcases a 3-axis robotic arm controlled by ESP32 microcontrollers with real-time wireless control via a web interface. Designed for precision and ease of use, this system integrates motor control, UART communication, and Wi-Fi connectivity to deliver a seamless user experience.
 
+![Project Screenshot](IMG_4398.jpeg)
+
+
 Features
 Precise Motor Control:
 Utilizes stepper motors for smooth and accurate multi-axis movements, with configurable speed and acceleration.
