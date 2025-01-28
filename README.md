@@ -12,12 +12,14 @@ Utilizes stepper motors for smooth and accurate multi-axis movements, with confi
 
 Wireless Interface:
 Hosts a web server on one ESP32, creating a Wi-Fi access point where users can control the robot by entering commands through a dynamic HTML-based interface.
+![Project Screenshot](IMG_4400.png.png)
 
 Real-Time Communication:
 Implements UART communication between two ESP32s—one handling the web interface and the other executing motor commands.
 
 User Feedback Display:
 Features an OLED screen to provide real-time feedback, such as Wi-Fi access point details and current robot actions.
+![Project Screenshot](IMG_4399.jpeg)
 
 Modular Firmware Design:
 Encapsulates motor control, OLED handling, and web server management into reusable, easy-to-extend modules.
