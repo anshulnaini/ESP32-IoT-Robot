@@ -7,6 +7,17 @@ This project showcases a 3-axis robotic arm controlled by ESP32 microcontrollers
 
 
 Features
+
+Robot Control:
+Allows for user to type in angles to move each axis or "run demo" to showcase capabilities.
+
+### Video 1
+<iframe src="https://drive.google.com/file/d/1NQA49-m5MSbD3_2Lb8nT8vc4IEylA8it/preview" width="640" height="480" allow="autoplay"></iframe>
+
+### Video 2
+<iframe src="https://drive.google.com/file/d/14kbuLB7u744Zfz5iZHSgPzFWcj_GSmDg/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
 Precise Motor Control:
 Utilizes stepper motors for smooth and accurate multi-axis movements, with configurable speed and acceleration.
 
